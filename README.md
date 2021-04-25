@@ -1,1 +1,1 @@
-# stardust.py
+# stardust
